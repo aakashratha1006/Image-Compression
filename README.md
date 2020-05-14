@@ -1,2 +1,2 @@
 # Image-Compression
-Img Compression using K-means algorithm in MATLAB
+Image Compression using K-means algorithm in MATLAB
